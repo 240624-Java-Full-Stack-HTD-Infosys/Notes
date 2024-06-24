@@ -1,0 +1,7 @@
+::Change Detection::
+Which of the following is used to detect changes in an Angular application? {
+    =ngDoCheck
+    ~ngOnChange
+    ~ngOnInit
+    ~None of the above
+}

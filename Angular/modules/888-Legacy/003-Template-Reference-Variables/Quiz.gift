@@ -1,0 +1,15 @@
+:: Template reference variables ::
+Which of the following statement is false about the Template reference variable? {
+    =Templete reference variable can be directly accessed in the TypeScript file.
+    ~Template reference variable is also called a local reference variable.
+    ~Template reference variable is used to access any DOM element and its properties.
+    ~None of the above.
+}
+
+Which of the following is the syntax for the template reference variable? {
+    =\#varName
+    ~*varName
+    ~varName
+    ~none of the above
+}
+

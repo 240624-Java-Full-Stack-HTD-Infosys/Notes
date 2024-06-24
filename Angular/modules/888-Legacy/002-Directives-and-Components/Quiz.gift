@@ -1,0 +1,14 @@
+::Directives::
+Directives which alter the DOM like ngFor or ngIf are examples of attribute directives.{
+  F #Structural directives alter the DOM, Attribute directives will modify the appearance or behaviour of an element.}
+
+Directives are used to bind HTML and Angular functionality. { 
+    T #Directives are attributes that offer additional functionality to HTML pages 
+    }
+
+Directives are (Choose the option that best completes this sentence){
+  ~the association of data/events with elements and user interactions
+  =elements, attributes and CSS style classes that you bind on your HTML templates
+  ~a set of instructions solely dedicated to presentation logic
+  ~a collection of data values that you pass to a component
+}

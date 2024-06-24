@@ -1,0 +1,14 @@
+::Jasmine::
+Which of the following user "\=\=\="  internally to check of two values are equal?  {
+    =toBe()
+    ~toEqual()
+    ~Equal()
+    ~None of the above
+}
+
+::Question::Which of the following is used for deep equality or equality beyond the object reference?{
+   ~toBe()
+   =toEqual()
+   ~Equal()
+   ~None of the above 
+}

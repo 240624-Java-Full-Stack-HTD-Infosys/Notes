@@ -1,0 +1,7 @@
+::Template Statements::
+Which of the following is an application of template statements? {
+    ~Submitting data after clicking on submit button
+    ~diabiling the submit button if the input is null.
+    ~Incrementing the values like a year, age, and count by clicking on the up or down button.
+    =All the Above.
+}

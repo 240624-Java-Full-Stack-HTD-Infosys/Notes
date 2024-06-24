@@ -1,0 +1,7 @@
+::DI Providers::
+Which of the following is the syntax for the provider token? {
+    =providers \: [dependency]
+    ~\{provider \: dependency\}
+    ~[provider \: dependency]
+    ~None of the above
+}

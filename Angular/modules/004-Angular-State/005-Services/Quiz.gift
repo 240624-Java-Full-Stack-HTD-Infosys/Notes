@@ -1,0 +1,14 @@
+::Dependency Injection::
+Which of the following is used to share data or functionality throughout the application? {
+    =Service
+    ~Directive
+    ~Component
+    ~None of the above
+}
+
+::Question::Which of the following annotations are used for a service class? {
+    =@Injectable
+    ~@Component
+    ~@NgModule
+    ~None of the above
+}

@@ -1,0 +1,14 @@
+::Angular Elements::
+Which of the following methods are used to convert an Angular component to a custom element? {
+    =createCustomElement()
+    ~CustomElement()
+    ~convertCustomElement()
+    ~addCustomElement()
+}
+
+Which of the following packages contains createCustomElement() method?{
+    =@angular/elements
+    ~@angular/core
+    ~@angular/platform-browser
+    ~None of the above
+}

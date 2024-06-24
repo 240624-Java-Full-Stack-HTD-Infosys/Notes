@@ -1,0 +1,8 @@
+::2 way binding::
+Which of the following methods can be used to achieve two-way binding {
+    ~using event binding and text interpolation/property binding in the same HTML template.
+    ~using [()]
+    =both A and B
+    ~Incorrect Answer 3
+}
+

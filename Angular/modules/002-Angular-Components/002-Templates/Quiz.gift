@@ -1,0 +1,8 @@
+::Template Overview::
+Which of the following is used to define the template of an Angular component? {
+    ~template
+    ~templateUrl
+    =Both A and B
+    ~None of the above
+}
+

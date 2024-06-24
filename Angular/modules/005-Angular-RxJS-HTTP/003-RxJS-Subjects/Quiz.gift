@@ -1,0 +1,12 @@
+::RxJS Subjects::
+Subjects are Obsrvables that can be multicasted to multiple Observers 
+{
+    = TRUE
+    ~ FALSE
+}
+
+::Question::The subject ignores the values that are emitted before the subscription
+{
+    = TRUE
+    ~ FALSE
+}

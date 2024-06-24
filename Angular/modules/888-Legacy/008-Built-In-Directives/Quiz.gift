@@ -1,0 +1,14 @@
+::Built-in Directives::
+Which of the following is a built-in directive? {
+    ~ngIf
+    ~ngModel
+    ~ngSwitch
+    =All the above
+}
+
+Which of the following can be considered as a Directive?{
+    ~Component
+    ~Attribute Directive
+    ~Structural Directive
+    =All of the above
+}

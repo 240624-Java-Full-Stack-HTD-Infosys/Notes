@@ -1,0 +1,14 @@
+What is the full form of npm? {
+    =Node package manager
+    ~Node package memory
+    ~Normal package manager
+    ~Node packet manager
+}
+
+Statement 1\:Angular projects are developed using npm and Angular CLI
+Statement 2\:AngularJS projects are developed using third-party tools like IDE  {
+    =Both Statement 1 and Statement 2 are true
+    ~Statemnt 1 is true and Statement 2 is false
+    ~Statemnt 1 is false and Statement 2 is true
+    ~Both Statement 1 and Statement 2 are false
+}

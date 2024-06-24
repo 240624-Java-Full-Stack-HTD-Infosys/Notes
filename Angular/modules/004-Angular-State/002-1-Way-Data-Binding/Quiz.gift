@@ -1,0 +1,28 @@
+::Text Interpolation::
+which of the following is used to listen to keystrokes, mouse moments and clicks? {
+    =Event Binding
+    ~Proprty Binding
+    ~Text Interpolation
+    ~None of the Above.
+}
+
+::Question::Which of the following is used to change an image dynamically on a webpage? {
+    =Proprty Binding
+    ~Event Binding
+    ~Text Interpolation
+    ~None of the Above.
+}
+
+::Question::Which of the following can be used to display and alter a text dynamically in a webpage? {
+    ~Proprty Binding
+    ~Event Binding
+    =Text Interpolation
+    ~None of the Above.
+}
+
+::Question::Which of the following is the syntax for text Interpolation? {
+    =\{\{\}\}
+    ~[]
+    ~\{\}
+    ~[()]
+}

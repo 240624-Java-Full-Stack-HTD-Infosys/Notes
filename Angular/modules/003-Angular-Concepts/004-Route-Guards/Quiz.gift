@@ -1,0 +1,7 @@
+::Route Guards::
+Which of the following is/are uses of Route Guard? {
+    ~User Authentication
+    ~Saving data before moving away from the view
+    ~Fetching some data before you diaplay the component view
+    =All the above
+}

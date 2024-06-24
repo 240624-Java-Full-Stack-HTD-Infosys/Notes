@@ -1,0 +1,24 @@
+::Lifecycle Hooks::
+Which of the following lifecycle hooks is called only once?
+{
+    ~ngOnChnages()
+    =ngOnInit()
+    ~ngDoCheck()
+    ~ngAfterContentChecked()
+}
+
+::Question::constructor() is invoked before ngOnInit()
+{
+  = T
+  ~ F
+}
+
+::Question::Which of the following libraries consists of all the lifecycle hook Interfaces? (Choose the best option){
+  =@angular/core
+  ~@angular/http
+  ~@angular/component
+  ~@angular/directives
+}
+
+
+

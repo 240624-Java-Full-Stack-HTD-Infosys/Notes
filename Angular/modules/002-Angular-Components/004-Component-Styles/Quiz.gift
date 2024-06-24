@@ -1,0 +1,14 @@
+::Component Styles::
+Which of the following is used to add CSS code directly to the component? {
+    =styles
+    ~stylesUrls
+    ~Both A and B
+    ~None of the above
+}
+
+::Question::Which of the following is used to link the CSS style sheet to the component? {
+    ~styles
+    =stylesUrls
+    ~Both A and B
+    ~None of the above
+}

@@ -1,0 +1,7 @@
+::Pub/Sub::
+Which of the following is an advatage of Pub/Sub design pattern? {
+~Scales with multiple recivers.
+~ Great with microservices
+~ Loose Coupling
+= All the above
+}

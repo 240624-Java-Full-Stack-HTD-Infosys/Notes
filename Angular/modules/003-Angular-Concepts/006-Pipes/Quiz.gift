@@ -1,0 +1,15 @@
+::Pipes::
+Which of the following is the syntax for pipe? {
+    =\{\{Text | pipe name\}\}
+    ~[(Text | pipe name)]
+    ~[[Text \: pipe name]]
+    ~((Text \: pipe name))
+}
+
+::Question::Which of the following is the syntax to convert a number to currency in the dollar? {
+    ~\{\{number | currency\:"USD"\}\}
+    ~\{\{number | currency\}\}
+    =Both A and B.
+    ~ None of the above.
+}
+

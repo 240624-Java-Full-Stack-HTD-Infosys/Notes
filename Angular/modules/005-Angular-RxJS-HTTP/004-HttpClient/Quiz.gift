@@ -1,0 +1,22 @@
+ ::HTTP-Client::
+ Which module defines an API to submit AJAX requests? (Choose the best option){
+  =HTTPModule
+  ~BrowserModule
+  ~AJAXModule
+  ~HTMLModule
+  ~error
+}
+
+::Question::What type of object do the request methods of the HttpModule return?{
+  =Observable
+  ~Promise
+  ~Request
+  ~Response
+}
+
+::Question::Which library is the HttpModule defined within?{
+  =@angular/http
+  ~@angular/browser
+  ~@angular/jsonp
+  ~@angular/core
+}

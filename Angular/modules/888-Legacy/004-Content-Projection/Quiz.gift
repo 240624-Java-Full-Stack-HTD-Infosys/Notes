@@ -1,0 +1,14 @@
+::Content-projection::
+Which of the following is used to achieve multi-slot content projection? {
+    =select
+    ~selector
+    ~target
+    ~None of the above
+}
+
+Which of the following acts as a placeholder for content projection?{
+    ~<ng-place>
+    ~<ng-hold>
+    =<ng-content>
+    ~None of the above
+}

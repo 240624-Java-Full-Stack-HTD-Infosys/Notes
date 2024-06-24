@@ -1,0 +1,8 @@
+::@NgModule::
+Which properties do you specify on @NgModule? (Choose all that apply){
+  ~%-100%definitions
+  ~%-100%components
+  ~%50%declarations
+  ~%-100%services
+  ~%50%imports
+}

@@ -1,0 +1,14 @@
+:: Sharing data between Child and Parent::
+Which of the following is used for data flow from the child component to the parent component? {
+    =@Output
+    ~@Input
+    ~Both A and B
+    ~None of the above
+}
+
+::Question::Which of the following is used for data flow between parent and child? {
+    ~@Output
+    =@Input
+    ~Both A and B
+    ~None of the above
+}

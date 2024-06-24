@@ -1,0 +1,56 @@
+::@Component decorator::
+Which of the following libraries defines the @Component decorator? (Choose the best option)
+{
+  =@angular/core
+  ~@angular/http
+  ~@angular/component
+  ~@angular/directives
+}
+
+::@Component decorator::
+Which of the following metadata properties specifies the CSS selector to which the component will match?
+{
+  ~animations
+  ~moduleId
+  ~exportAs
+  ~providers
+  =selector
+}
+
+::@Component decorator::
+Which of the following metadata specifies the path to the file that defines the HTML to output?
+{
+  ~animations
+  ~exportAs
+  ~providers
+  ~template
+  =templateUrl
+}
+
+::@Component decorator::
+@Component is a special form of the @Directive decorator.
+{
+  =T
+  ~F 
+}
+
+::@Component decorator::
+A TypeScript class can be declared as a component by
+{
+  ~No special configuration is necessary to declare a component.
+  =Adding the @Component decorator.
+  ~Implementing the OnInit interface.
+  ~Implementing the Component interface.
+}
+
+::Root component::
+All applications have at least one component, the root component.{ 
+  =T
+  ~F 
+}
+
+::Root Module::
+You typically define one root module and typically define additional features of your application as other modules tied into your root module.{ 
+  =T
+  ~F 
+}

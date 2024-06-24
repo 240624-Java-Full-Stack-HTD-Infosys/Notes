@@ -1,0 +1,7 @@
+::Karma::
+Which of the following configuration files is used by karma to run tests in an Angular Application  {
+    =karma.conf.js
+    ~karma.conf.ts
+    ~karma.js
+    ~karma.ts
+}

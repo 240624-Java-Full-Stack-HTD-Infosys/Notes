@@ -1,0 +1,20 @@
+Which of the following command is used to create a new Angular project? {
+    =ng new projectName
+    ~ng create projectName
+    ~ng build projectName
+    ~ng serve projectName
+}
+
+ng stands for Angular
+{
+    = T
+    ~ F
+}
+
+Which of the following is the port number to build and serve an angular project {
+    =4020
+    ~4040
+    ~2040
+    ~None of the above
+}
+

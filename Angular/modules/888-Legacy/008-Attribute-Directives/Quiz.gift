@@ -1,0 +1,15 @@
+::Attribute Directives::
+Which of the following is an attribute directive? {
+    =ngStyle
+    ~ngIf
+    ~ngSwitch
+    ~None of the above
+}
+
+::Question::Which of the following is the syntax to create a custom attribute?
+{
+    = ng generate directive attribute-name
+    ~ ng generate attribute attribute-name
+    ~ ng create new attribute attribute-name
+    ~ ng new directive attribute-name
+}

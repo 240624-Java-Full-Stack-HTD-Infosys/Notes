@@ -1,0 +1,28 @@
+::View Encapsulation::
+Which of the following limits the CSS styles scope to the comonent? {
+    =ViewEncapuslation.Emulated
+    ~ViewEncapuslation.None
+    ~ViewEncapuslation.ShadowDom
+    ~None of the above
+}
+
+Which of the following files can be used to add CSS styles globally? {
+    =styles.css
+    ~componentname.component.css
+    ~app.component.css
+    ~None of the above
+}
+
+Which of the following ViewEncapsulation is applied by default? {
+    =ViewEncapuslation.Emulated
+    ~ViewEncapuslation.None
+    ~ViewEncapuslation.ShadowDom
+    ~None of the above
+}
+
+Which of the following sets css styles of a component to global? {
+    ~ViewEncapuslation.Emulated
+    =ViewEncapuslation.None
+    ~ViewEncapuslation.ShadowDom
+    ~None of the above
+}

@@ -1,0 +1,7 @@
+::Angular Testing::
+Which of the following is a test file?{
+    ~component.ts
+    =component.spec.ts
+    ~component.js
+    ~none of the above
+}

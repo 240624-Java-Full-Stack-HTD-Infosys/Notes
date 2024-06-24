@@ -1,0 +1,22 @@
+::Structural Directives::
+Which of the following is not a structural directive? {
+    =ngModel
+    ~ngIf
+    ~ngFor
+    ~ngSwitch
+}
+
+::Question::Which of the following structural directive is used to add or delete DOM elements based on a condition?
+{
+    =ngIf
+    ~ngFor
+    ~ngSwitch
+    ~None of the above
+}
+
+::Question::Which of the following is used to iterate over a part of an HTML template from an iterable list? {
+    ~ngIf
+    =ngFor
+    ~ngSwitch
+    ~None of the above
+}

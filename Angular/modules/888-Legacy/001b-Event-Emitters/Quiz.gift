@@ -1,0 +1,6 @@
+::Event Emitters::
+ Event emitter  is used in components with the @Output directive to emit custom events synchronously or asynchronously.  
+ {
+    = TRUE
+    ~ FALSE
+}

@@ -1,0 +1,57 @@
+::Routing and Navigation::
+Which directive is used to specify the location of routable content to display?{
+  ~RouterLink
+  =RouterOutlet
+  ~RouterModule
+  ~Component
+  ~Routes
+}
+
+::Question::Which of the following is the way to refer to a partial from an anchor tag <code>< a ></code>?{
+  ~about.html
+  ~"/about.html"
+  =\#/about
+  ~\#/about.html
+}
+
+::Question::Which library defines the RouterModule?{
+  =@angular/router
+  ~@angular/http
+  ~@angular/routing
+  ~@angular/route
+}
+
+::Question::In Angular, a router module is{
+  ~An injectable singleton composing related application logic.
+  ~A file used to declare the various files that make up an Angular module.
+  ~A modularized portion of a user interface, composed of template, styles, and a TypeScript class.
+  =A TypeScript object that defines how various URLs map to views.
+}
+
+::Question::The router-outlet tag is used to{
+  ~Declare a route.
+  ~Provide a link to a route.
+  =Provide a location where routed components will appear in the view.
+  ~Turn off routes.
+}
+
+::Question::Which of the following best describes what a Route is?{
+  =a path and an associated component
+  ~a webpage
+  ~a link to a website
+  ~a way to get back home
+}
+
+::Question::Which method do you call to configure the routes in your application with the module?{
+  =RouterModule.forRoot(routes)
+  ~RouterModule.routes(routes)
+  ~RouterModule.setRoutes(routes)
+  ~RouterModule.forRoutes(routes)
+}
+
+::Question::Which of the methods on routeProvider do you call to correctly bind a template with a route?{
+  =when()
+  ~route()
+  ~config()
+  ~choose()
+}

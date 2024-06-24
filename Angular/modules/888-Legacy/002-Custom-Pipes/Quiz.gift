@@ -1,0 +1,7 @@
+::Custom Pipe::
+Which of the following is the syntax to create a custom pipe? {
+    =ng generate pipe <pipe-name>
+    ~ng create pipe <pipe-name>
+    ~generate pipe <pipe-name>
+    ~pipe <pipe-name>
+}
