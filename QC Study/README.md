@@ -2,12 +2,17 @@
 These files are full of questions you are likely to be asked as part of QC. You should focus your QC studies on these, but know that you may get asked questions that you didn't see here. If you see something in these files that you don't think was covered in training, please let your trainer know. 
 
 
-### Current topics - Java SQL REST competency - QC on Wednessday 12/6/23
- - [Hibernate](./qc-hibernate.md)
- - [Spring](./qc-spring.md)
+### Current topics - Java SQL REST competency
+ - [OOP](./oop.md)
+ - [Java Basics](./java-basics.md)
+ - [Java Intermediate - Advanced](./java-advanced.md)
+ - [SQL](./qc-sql.md)
+ - [HTML](./qc-html.md)
+ - [REST](./qc-rest.md)
  - [HTML](./qc-html.md)
  - [CSS](./qc-css.md)
  - [JavaScript](./qc-javascript.md)
+ - [TypeScript](./qc-typescript.md)
 
 ### Backend:
  - [OOP](./oop.md)
