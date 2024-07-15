@@ -7,12 +7,7 @@ These files are full of questions you are likely to be asked as part of QC. You 
  - [Java Basics](./java-basics.md)
  - [Java Intermediate - Advanced](./java-advanced.md)
  - [SQL](./qc-sql.md)
- - [HTML](./qc-html.md)
  - [REST](./qc-rest.md)
- - [HTML](./qc-html.md)
- - [CSS](./qc-css.md)
- - [JavaScript](./qc-javascript.md)
- - [TypeScript](./qc-typescript.md)
 
 ### Backend:
  - [OOP](./oop.md)
