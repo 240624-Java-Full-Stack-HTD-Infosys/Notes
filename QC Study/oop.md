@@ -3,9 +3,16 @@
  - Describe the characteristics of the object-oriented paradigm
  - Pillars of OOP
  - Define Abstraction and provide advantages to using it
+   - A technique where we hide implementation details, and expose a simplified interface.
+   - What? Why? How?
  - Define Polymorphism and provide advantages to using it
+   - Polymorphism is a number of concepts which emerge from object oriented programming. It means "many forms" and good examples of polymorphism include Overloading and Overriding.
+   - What? Why? How? 
  - Define Inheritance and provide advantages to using it
+   - A technique where we receive data and behaviors from another encapsulation.
  - Define Encapsulation and provide advantages to using it
+   - A technique where we bundle data and behaviors into a single logical unit, often called a "class". The encapsulation's data should only be accessible via the encapsulation's behaviors.
+   - What? Why? How?
  - What are some different types of polymorphism?
  - What are some different inheritance strategies?
  - What is sub-type polymorphism?
