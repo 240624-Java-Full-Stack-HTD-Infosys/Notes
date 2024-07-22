@@ -5,6 +5,9 @@ These files are full of questions you are likely to be asked as part of QC. You 
 ### Current Topics - Spring Competency
  - [Spring](./qc-spring.md)
  - [Hibernate](./qc-hibernate.md)
+   - We only care about a few main points here:
+   - What is an ORM?
+   - How do we define entities? (Which annotations and what do they do?)
 
 ### Previous Topics - Java SQL REST competency
  - [OOP](./oop.md)
