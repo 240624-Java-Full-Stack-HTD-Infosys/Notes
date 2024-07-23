@@ -8,6 +8,7 @@ These files are full of questions you are likely to be asked as part of QC. You 
    - We only care about a few main points here:
    - What is an ORM?
    - How do we define entities? (Which annotations and what do they do?)
+ - [Spring Annotations](https://github.com/240624-Java-Full-Stack-HTD-Infosys/Notes/blob/main/QC%20Study/Spring-Annotations.md)
 
 ### Previous Topics - Java SQL REST competency
  - [OOP](./oop.md)
