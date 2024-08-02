@@ -2,7 +2,14 @@
 These files are full of questions you are likely to be asked as part of QC. You should focus your QC studies on these, but know that you may get asked questions that you didn't see here. If you see something in these files that you don't think was covered in training, please let your trainer know. 
 
 
-### Current Topics - Spring Competency
+### Current Topics
+ - [HTML](./qc-html.md)
+ - [CSS](./qc-css.md)
+ - [JavaScript](./qc-javascript.md)
+ - [TypeScript](./qc-typescript.md)
+ - [React & Redux](./qc-react-ak.md)
+
+### Previous Topics - Spring Competency
  - [Spring](./qc-spring.md)
  - [Hibernate](./qc-hibernate.md)
    - We only care about a few main points here:
