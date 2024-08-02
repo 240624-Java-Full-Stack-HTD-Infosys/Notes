@@ -7,7 +7,8 @@ These files are full of questions you are likely to be asked as part of QC. You 
  - [CSS](./qc-css.md)
  - [JavaScript](./qc-javascript.md)
  - [TypeScript](./qc-typescript.md)
- - [React & Redux](./qc-react-ak.md)
+ - [React & Redux](./qc-react-ak.md)(old)
+ - [React]()(new)
 
 ### Previous Topics - Spring Competency
  - [Spring](./qc-spring.md)
