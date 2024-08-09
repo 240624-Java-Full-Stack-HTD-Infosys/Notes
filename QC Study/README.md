@@ -2,9 +2,11 @@
 These files are full of questions you are likely to be asked as part of QC. You should focus your QC studies on these, but know that you may get asked questions that you didn't see here. If you see something in these files that you don't think was covered in training, please let your trainer know. 
 
 ### Current Topics - DevOps
+ - [Software Development Lifecycle](./qc-sdlc.md)
+ - [DevOps](./qc-devops.md)
+ - [DevOps & Agile](./qc-sdlc-devops.md)
  - [AWS](./qc-aws.md)
  - [Docker](./qc-docker.md)
-
 
 ### Previous Topics - Webdev with React Competency
  - [HTML](./qc-html.md)
