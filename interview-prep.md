@@ -1,17 +1,14 @@
 # Interview Prep
 ### General Advice:
- - is to always be positive and always present positivity to the interviewer
+ - Always be positive and always present positivity to the interviewer
  - Always be painting yourself as an asset
  - Always be acting under the assumption that you already have the job
  - Answer these soft skill questions ahead of time, and practice your answer to be delivered in the interview
- - Keep answers tight!
- - Do some research about the company
- - taylor answers to the company and position
- - 30 - 60 seconds
+ - Keep answers tight - 30 - 60 seconds
+ - Do some research about the company, taylor answers to the company and position
  - STAR (Situation, Task, Action, Resolution)
  - Keep it simple
  - We do not actually know how they plan to judge us
- - show interest
  - people love to talk about themselves
 
   
