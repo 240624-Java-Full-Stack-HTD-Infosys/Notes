@@ -14,7 +14,8 @@
  - We do not actually know how they plan to judge us
  - show interest
  - people love to talk about themselves
-
+  
+  
  - Tell me about yourself
    - Where my current journey started (For Kyle that's he quit his job and went back to school at 30 years old)
    - education - graduation, major/minor, and acolades
