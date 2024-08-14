@@ -1,6 +1,5 @@
 # Interview Prep
-## Soft skills questions
-### Good advice:
+### General Advice:
  - is to always be positive and always present positivity to the interviewer
  - Always be painting yourself as an asset
  - Always be acting under the assumption that you already have the job
@@ -14,8 +13,9 @@
  - We do not actually know how they plan to judge us
  - show interest
  - people love to talk about themselves
+
   
-  
+## Soft skills questions
  - Tell me about yourself
    - Where my current journey started (For Kyle that's he quit his job and went back to school at 30 years old)
    - education - graduation, major/minor, and acolades
